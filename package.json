@@ -1,0 +1,17 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "main": "danceapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon registration.js",
+    "dev ": "node registration.js"
+  },
+  "keywords": [],
+  "author": "esther",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
